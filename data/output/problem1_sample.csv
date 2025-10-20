@@ -1,0 +1,11 @@
+log_entry,log_level
+"17/06/09 18:35:09 INFO storage.BlockManager: Found block rdd_9168_17 locally",INFO
+"17/06/09 16:52:54 INFO executor.Executor: Running task 23.0 in stage 1567.0 (TID 65984)",INFO
+"17/06/09 12:55:33 INFO python.PythonRunner: Times: total = 39, boot = -15, init = 54, finish = 0",INFO
+"17/06/08 19:29:23 INFO python.PythonRunner: Times: total = 41, boot = -36, init = 76, finish = 1",INFO
+"17/06/09 18:17:12 INFO storage.BlockManager: Found block rdd_6667_35 locally",INFO
+"17/06/08 11:29:06 INFO spark.CacheManager: Partition rdd_115_7 not found, computing it",INFO
+"17/06/08 11:37:23 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 37934",INFO
+"17/06/09 20:54:40 INFO mapred.SparkHadoopMapRedUtil: attempt_201706092053_2129_m_000001_85440: Committed",INFO
+"17/06/09 12:44:52 INFO python.PythonRunner: Times: total = 39, boot = 17, init = 22, finish = 0",INFO
+"17/06/08 17:36:24 INFO executor.Executor: Finished task 12.0 in stage 883.0 (TID 35334). 2076 bytes result sent to driver",INFO
